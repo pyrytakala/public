@@ -1,4 +1,4 @@
-# pollution resources
+# pollution
 
 ##### Current, forecast & alerts
 - http://www.londonair.org.uk/LondonAir/Forecast/
@@ -16,7 +16,6 @@
 ##### History
 - https://uk-air.defra.gov.uk/latest/index.php?date=21%2F01%2F2017&submit=Select#summary
 - http://www.telegraph.co.uk/news/earth/environment/11991350/Mapped-Where-is-air-pollution-killing-the-most-people.htmlwea
-
 
 ##### Pollen
 - http://www.metoffice.gov.uk/public/weather/pollen-forecast/#?tab=map&map=Pollen&fcTime=1495018800&zoom=8&lon=-0.18&lat=51.40
