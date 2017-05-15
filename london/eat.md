@@ -1,28 +1,30 @@
 # near Liverpool st
 
-## specific days only
+## markets, specific days only
 - Tue - http://www.broadgate.co.uk/ArtisanMarket
 - Fri - Spitalfields street market
 
-## always
-- Spitalfields permanent shops
+## markets, always
 - http://www.streetdots.co.uk/broadgate/
+- Spitalfields permanent shops
 - Finsbury Square Garden
+- Boxpark
+- Whitestar
+- (far) Leadenhall market
+
+## restaurants
+- Curtain Rd
+- Worship st
 - Riccardo's
 - Vital
 - Vietnam
 - Beany
 - Wasabi
 - Itsu
-- Worship st
 - Leon
-- online order
-- Curtain Rd
-- Leadenhall market
-- Boxpark
-- Whitestar
 - German
 - Franco Manca
 - Lebanon
 - M&S
 - Panini's
+- online orders
