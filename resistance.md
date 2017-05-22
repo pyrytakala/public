@@ -56,3 +56,4 @@ Everyone: open eyes
 - http://www.brianathomas.com/archives/2013/12/15/resistance-with-regular-playing-cards/
 - http://upload.snakesandlattes.com/rules/r/ResistanceAvalon.pdf
 - https://www.reddit.com/r/boardgames/comments/2w2aej/how_do_i_play_resistance_with_minimum_equipment/
+- http://lzinnick.weebly.com/uploads/1/3/4/2/13428779/rulebook_for_the_resistance.pdf
