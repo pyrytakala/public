@@ -3,8 +3,8 @@
 ## before game begins
 
 ### card equivalents
-- red face cards: good team (resistance / knights)
-- black face cards: bad team (spies / minions)
+- red cards: good team (resistance / knights)
+- black cards: bad team (spies / minions)
 - optional - special characters:
   - merlin (or captain): red ace
   - assassin: black ace
