@@ -21,6 +21,6 @@ Generic tech
 ## news events
 
 AI
-- nips.cc
-- iclr.cc
-- icml.cc
+- https://nips.cc
+- https://iclr.cc
+- https://icml.cc
