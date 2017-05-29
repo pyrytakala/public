@@ -8,6 +8,7 @@ AI
 - https://www.getrevue.co/profile/wildml
 - https://deepmind.com/blog/
 - http://aiweekly.co/
+- https://plus.google.com/communities/112866381580457264725
 
 Generic tech
 - https://www.getrevue.co/profile/sohear
