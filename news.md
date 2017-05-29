@@ -14,3 +14,4 @@ Generic tech
 - https://www.getrevue.co/profile/sohear
 - https://www.getrevue.co/profile/azeem
 - http://ben-evans.com/newsletter/
+- https://techcrunch.com/video/crunchweek/
