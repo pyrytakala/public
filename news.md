@@ -4,6 +4,7 @@
 ## online sources
 dialogues
 - http://www.df2020.com/category/chatbot-updates 
+- http://opusresearch.net/wordpress/
 
 AI
 - http://www.thetalkingmachines.com/
