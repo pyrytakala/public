@@ -18,6 +18,7 @@ generic tech
 - https://www.getrevue.co/profile/azeem
 - http://ben-evans.com/newsletter/
 - https://techcrunch.com/video/crunchweek/
+- https://www.getrevue.co/profile/nathanbenaich
 
 ## news events
 
