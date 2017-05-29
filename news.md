@@ -1,5 +1,7 @@
 # news
 
+
+## online sources
 Dialogues
 - http://www.df2020.com/category/chatbot-updates 
 
@@ -15,3 +17,10 @@ Generic tech
 - https://www.getrevue.co/profile/azeem
 - http://ben-evans.com/newsletter/
 - https://techcrunch.com/video/crunchweek/
+
+## news events
+
+AI
+- nips.cc
+- iclr.cc
+- icml.cc
