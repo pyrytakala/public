@@ -6,6 +6,8 @@ Dialogues
 AI
 - http://www.thetalkingmachines.com/
 - https://www.getrevue.co/profile/wildml
+- https://deepmind.com/blog/
 
 Generic tech
-- https://www.getrevue.co/profile/sohear 
+- https://www.getrevue.co/profile/sohear
+- https://www.getrevue.co/profile/azeem
