@@ -28,4 +28,4 @@ AI
 - https://nips.cc
 - http://iclr.cc
 - http://icml.cc
-- 
+- https://www.google.co.uk/webhp#q=tensorflow+dev+summit
