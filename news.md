@@ -2,7 +2,7 @@
 
 
 ## online sources
-Dialogues
+dialogues
 - http://www.df2020.com/category/chatbot-updates 
 
 AI
@@ -12,7 +12,7 @@ AI
 - http://aiweekly.co/
 - https://plus.google.com/communities/112866381580457264725
 
-Generic tech
+generic tech
 - https://www.getrevue.co/profile/sohear
 - https://www.getrevue.co/profile/azeem
 - http://ben-evans.com/newsletter/
@@ -20,7 +20,12 @@ Generic tech
 
 ## news events
 
+dialogue
+- www.sigdial.org
+- https://www.aclweb.org/website/acl
+
 AI
 - https://nips.cc
 - http://iclr.cc
 - http://icml.cc
+- 
