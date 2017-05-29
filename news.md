@@ -7,6 +7,7 @@ AI
 - http://www.thetalkingmachines.com/
 - https://www.getrevue.co/profile/wildml
 - https://deepmind.com/blog/
+- http://aiweekly.co/
 
 Generic tech
 - https://www.getrevue.co/profile/sohear
