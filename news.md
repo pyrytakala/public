@@ -29,3 +29,7 @@ AI
 - http://iclr.cc
 - http://icml.cc
 - https://www.google.co.uk/webhp#q=tensorflow+dev+summit
+
+tech
+- https://events.google.com/io/
+- https://build.microsoft.com/
