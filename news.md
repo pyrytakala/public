@@ -22,5 +22,5 @@ Generic tech
 
 AI
 - https://nips.cc
-- https://iclr.cc
-- https://icml.cc
+- http://iclr.cc
+- http://icml.cc
