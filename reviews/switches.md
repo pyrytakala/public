@@ -14,6 +14,7 @@
 - reliability (does it switch on if you ask it to)
 - easy reset if there are connection failures
 - allowed distance between gateway and switch
+- more switches can be bought separately
 
 ## assessment
 - mi|home:
