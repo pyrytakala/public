@@ -8,7 +8,7 @@
 - wemo
 
 ## criterion
-- high-quality integrations (well documented RESTful API / Alexa / IFTTT / ...)
+- high-quality integrations (well documented RESTful API / Alexa / GoogleHome / IFTTT / ...)
 - well-reviewed smartphone app
 - lag (some take 30s from command to action)
 - reliability (does it switch on if you ask it to)
