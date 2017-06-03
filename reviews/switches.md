@@ -15,6 +15,7 @@
 - easy reset if there are connection failures
 - allowed distance between gateway and switch
 - more switches can be bought separately
+- can integrate with desired auto-detection devices (motion sensor, camera, etc.)
 
 ## assessment
 - mi|home:
