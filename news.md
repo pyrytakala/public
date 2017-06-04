@@ -20,6 +20,9 @@ generic tech
 - https://techcrunch.com/video/crunchweek/
 - https://www.getrevue.co/profile/nathanbenaich
 
+info systems
+- http://www.misq.org/current/
+
 ## news events
 
 dialogue
@@ -35,3 +38,10 @@ AI
 tech
 - https://events.google.com/io/
 - https://build.microsoft.com/
+
+info systems
+- International Conference on Information Systems
+
+## references
+- http://www1.chapman.edu/~bdehning/MIS%20Journal%20Rankings.htm
+- http://lipn.univ-paris13.fr/~bennani/CSRank.html
