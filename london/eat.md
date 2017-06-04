@@ -39,6 +39,7 @@
 - Franze & Evans , https://www.yelp.co.uk/biz/franz%C3%A8-and-evans-london-2
 - laxeiro , https://www.yelp.co.uk/biz/laxeiro-tapas-bar-london
 - burro , https://www.yelp.co.uk/biz/burro-e-salvia-pastificio-london-2
+- foxcroft & ginger http://foxcroftandginger.co.uk/what-we-do/
 - Sainsbury's - oven meals
 - Sainsbury's - soups
 - [places near limehouse]
