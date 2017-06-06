@@ -5,3 +5,6 @@
 - https://stocksnap.io/
 - http://www.freeimageslive.co.uk/
 - to find across sites, google: ```$KEYWORDS -shutterstock -alamy```
+
+### paid images
+- http://www.istockphoto.com/
