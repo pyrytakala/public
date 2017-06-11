@@ -5,6 +5,13 @@
 - http://londonist.com/things-to-do-in-london-today
 - http://www.timeout.com/london/things-to-do/things-to-do-in-london-today?package_page=46679
 - http://www.timeout.com/london/things-to-do/things-to-do-in-london-today#tab_panel_2
+- http://www.lastminute.com/entertainment/comedy.html
+- http://www.meetup.com/FreeLondonEvents/
+- http://www.meetup.com/moviemeetup/
+- http://www.meetup.com/Bored-in-London/
+- http://www.meetup.com/southlondonsocial/
+- https://www.meetup.com/YoungLondoners/
+- https://www.meetup.com/funandunusualeventsinlondon/
 
 ## on the weekend
 - www.timeout.com/london/things-to-do-in-london-this-weekend
