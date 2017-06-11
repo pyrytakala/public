@@ -5,6 +5,7 @@
 - http://www.moocanoes.com/
 - http://www.canoeandkayakthethames.co.uk/
 - http://www.thamescanoes.com/
+- http://www.londoncyclist.co.uk/bicycle-rental-london/
 
 ## events
 
