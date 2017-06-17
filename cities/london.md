@@ -156,3 +156,6 @@
 	- https://www.theheavenlycakecompany.co.uk/
 	- http://www.sugargrain.com/
 
+
+## work
+- https://nomadlist.com/london-united-kingdom/coworking
