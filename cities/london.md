@@ -124,7 +124,6 @@
 ##### Current, forecast & alerts
 - http://www.londonair.org.uk/LondonAir/Forecast/
 - https://uk-air.defra.gov.uk/forecasting/
-- http://www.airtext.info/allregions
 
 ##### Current
 - https://air.plumelabs.com/en/week/london
