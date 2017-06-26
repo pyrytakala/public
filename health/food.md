@@ -16,6 +16,13 @@
   - highest dried fruits start at 73g / 100g (for mangos)
   - --> dried fruit highly discouraged
 
+### fats
+- https://www.helpguide.org/articles/healthy-eating/choosing-healthy-fats.htm
+
+### meat
+- nitrates & sodium in cooked meat?
+
+
 ## references
 - https://thepaleodiet.com/fruits-and-sugars/
 - https://en.wikipedia.org/wiki/Mercury_in_fish
