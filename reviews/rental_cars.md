@@ -1,4 +1,12 @@
 # rental cars
-- rentalcars.com
-- zip car
-- argusrentals
+- http://www.rentalcars.com/
+- https://www.arguscarhire.com/?c=gb#/searchcars
+- https://www.easycar.com/en
+
+## clubs
+- http://www.zipcar.com/
+
+## p2p
+- https://www.hiyacar.co.uk/
+- https://carclub.easycar.com/
+- https://www.rentecarlo.com/
