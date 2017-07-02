@@ -1,3 +1,5 @@
+# business
+
 ### free images
 - to find across sites, google: ```$KEYWORDS -shutterstock -alamy```
 - https://pixabay.com/
@@ -8,3 +10,7 @@
 
 ### paid images
 - http://www.istockphoto.com/
+
+
+### employee equity
+- https://angel.co/salaries/london
