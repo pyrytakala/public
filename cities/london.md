@@ -6,6 +6,9 @@
 - http://www.sustrans.org.uk/ncn/map?lat=56.54737192673878&lng=-3.142090281250036&zoom=5&route-type=all-routes&filters=
 - http://www.londoncyclist.co.uk/bicycle-rental-london/
 - http://content.tfl.gov.uk/bicycles-on-public-transport.pdf
+- hires outside London
+  - St Albans https://www.appscycleworks.co.uk/bike-hire
+
 
 ### kayaking
 - http://www.active360.co.uk/equipment-hire-london.htm
