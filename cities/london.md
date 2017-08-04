@@ -1,11 +1,16 @@
 # london
 
 ## sports
+
+### cycling
+- http://www.sustrans.org.uk/ncn/map?lat=56.54737192673878&lng=-3.142090281250036&zoom=5&route-type=all-routes&filters=
+- http://www.londoncyclist.co.uk/bicycle-rental-london/
+
+### kayaking
 - http://www.active360.co.uk/equipment-hire-london.htm
 - http://www.moocanoes.com/
 - http://www.canoeandkayakthethames.co.uk/
 - http://www.thamescanoes.com/
-- http://www.londoncyclist.co.uk/bicycle-rental-london/
 
 ## events
 
