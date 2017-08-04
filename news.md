@@ -12,6 +12,7 @@ AI
 - https://deepmind.com/blog/
 - http://aiweekly.co/
 - https://plus.google.com/communities/112866381580457264725
+- https://www.getrevue.co/profile/CityAI
 
 generic tech
 - https://www.getrevue.co/profile/sohear
