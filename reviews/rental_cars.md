@@ -10,3 +10,8 @@
 - https://www.hiyacar.co.uk/
 - https://carclub.easycar.com/
 - https://www.rentecarlo.com/
+
+# in finland
+- https://www.hsl.fi/autoilu
+  - citycarclub
+  - 24rent.fi
