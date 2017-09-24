@@ -17,4 +17,7 @@
 - mix margarine into oat mixture until this resembles crumbs
 - top baking dish with crumble
 - warm oven to 175C
-- set timer to 40 minutes
+- set timer to 45 minutes
+
+# reviews
+- Sep-17: 4/5. Ok but a little dry. Needs at least custard to eat with it
