@@ -1,6 +1,0 @@
-# air purifiers
-
-## brands
-
-## criteria
-
