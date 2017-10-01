@@ -150,6 +150,8 @@
 - http://www.claritynallergy.co.uk/allergyforecast/?zip=E1%204AE
 - http://www.netweather.tv/index.cgi?action=pollen;sess=
 
+#### other weather
+- http://www.meteovista.co.uk/Migraine/United-Kingdom/London/4163337
 
 # shops
 
