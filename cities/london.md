@@ -153,6 +153,11 @@
 #### other weather
 - http://www.meteovista.co.uk/Migraine/United-Kingdom/London/4163337
 
+#### global
+- https://www.hs.fi/ulkomaat/art-2000005411483.html
+- http://www.temis.nl/airpollution/no2col/no2regioomimonth_v2.php?Region=9&Year=2016&Month=11
+- http://uv-vis.aeronomie.be/news/20141027/
+
 # shops
 
 ## dairy free bakeries
