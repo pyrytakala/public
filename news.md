@@ -24,6 +24,13 @@ generic tech
 info systems
 - http://www.misq.org/current/
 
+contact centre news (WIP)
+- https://www.instituteofcustomerservice.com/media-centre/customer-service-news
+- http://www.independent.co.uk/topic/CustomerService
+- https://cxm.co.uk/category/cxm-news/
+- https://www.callcentrehelper.com/news?orderby=popularity
+- https://contact-centres.com/
+
 ## news events
 
 dialogue
