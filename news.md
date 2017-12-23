@@ -21,6 +21,10 @@ generic tech
 - https://techcrunch.com/video/crunchweek/
 - https://www.getrevue.co/profile/nathanbenaich
 
+tech trends
+- https://www.google.co.uk/search?q=gartner+hype+cycle&btnI
+- http://www.kpcb.com/internet-trends 
+
 info systems
 - http://www.misq.org/current/
 
