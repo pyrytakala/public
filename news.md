@@ -24,6 +24,8 @@ generic tech
 tech trends
 - https://www.google.co.uk/search?q=gartner+hype+cycle&btnI
 - http://www.kpcb.com/internet-trends 
+- https://www2.deloitte.com/insights/us/en/focus/tech-trends.html
+- https://futuretodayinstitute.com/
 
 info systems
 - http://www.misq.org/current/
