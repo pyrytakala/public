@@ -37,6 +37,9 @@ contact centre news (WIP)
 - https://www.callcentrehelper.com/news?orderby=popularity
 - https://contact-centres.com/
 
+generic reports
+- http://corporate.exxonmobil.com/en/energy/energy-outlook/download-the-report/download-the-outlook-for-energy-reports
+
 ## news events
 
 dialogue
