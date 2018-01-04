@@ -15,8 +15,8 @@ AI
 - https://www.getrevue.co/profile/CityAI
 
 generic tech
+- https://www.exponentialview.co/newsletter/
 - https://www.getrevue.co/profile/sohear
-- https://www.getrevue.co/profile/azeem
 - http://ben-evans.com/newsletter/
 - https://techcrunch.com/video/crunchweek/
 - https://www.getrevue.co/profile/nathanbenaich
