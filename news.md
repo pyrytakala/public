@@ -26,6 +26,7 @@ tech trends
 - http://www.kpcb.com/internet-trends 
 - https://www2.deloitte.com/insights/us/en/focus/tech-trends.html
 - https://futuretodayinstitute.com/
+- https://github.com/trending?since=monthly
 
 info systems
 - http://www.misq.org/current/
@@ -39,6 +40,11 @@ contact centre news (WIP)
 
 generic reports
 - http://corporate.exxonmobil.com/en/energy/energy-outlook/download-the-report/download-the-outlook-for-energy-reports
+
+generic world
+- Economist
+- Newsweek
+
 
 ## news events
 
