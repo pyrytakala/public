@@ -28,6 +28,7 @@ tech trends
 - https://www2.deloitte.com/insights/us/en/focus/tech-trends.html
 - https://futuretodayinstitute.com/
 - https://github.com/trending?since=monthly
+- https://play.google.com/store/apps/top?hl=en_GB
 
 info systems
 - http://www.misq.org/current/
