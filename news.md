@@ -29,6 +29,7 @@ tech trends
 - https://futuretodayinstitute.com/
 - https://github.com/trending?since=monthly
 - https://play.google.com/store/apps/top?hl=en_GB
+- https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies  &  https://www.cbinsights.com/research-unicorn-companies
 
 info systems
 - http://www.misq.org/current/
