@@ -22,7 +22,7 @@ generic tech
 - https://www.getrevue.co/profile/nathanbenaich
 
 tech trends
-- https://www.google.co.uk/search?q=gartner+hype+cycle&btnI
+- https://www.google.co.uk/search?q=gartner+hype+cycle
 - http://www.kpcb.com/internet-trends 
 - https://www2.deloitte.com/insights/us/en/focus/tech-trends.html
 - https://futuretodayinstitute.com/
