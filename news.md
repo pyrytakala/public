@@ -19,7 +19,6 @@ generic tech
 - https://www.exponentialview.co/newsletter/
 - https://www.getrevue.co/profile/sohear
 - http://ben-evans.com/newsletter/
-- https://techcrunch.com/video/crunchweek/
 - https://www.getrevue.co/profile/nathanbenaich
 
 tech trends
