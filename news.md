@@ -20,6 +20,7 @@ generic tech
 - https://www.getrevue.co/profile/sohear
 - http://ben-evans.com/newsletter/
 - https://www.getrevue.co/profile/nathanbenaich
+- https://a16z.com/posts/
 
 tech trends
 - https://www.google.co.uk/search?q=gartner+hype+cycle
