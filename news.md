@@ -32,6 +32,7 @@ tech trends
 - https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies  &  https://www.cbinsights.com/research-unicorn-companies
 - https://www.cbinsights.com/research/
 - https://www.producthunt.com/
+- https://news.ycombinator.com/
 
 info systems
 - http://www.misq.org/current/
