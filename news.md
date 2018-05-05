@@ -25,12 +25,14 @@ generic tech
 tech trends
 - https://www.google.co.uk/search?q=gartner+hype+cycle
 - http://www.kpcb.com/internet-trends 
+- https://www.google.co.uk/search?q=kpmg+venture+pulse
 - https://www2.deloitte.com/insights/us/en/focus/tech-trends.html
 - https://futuretodayinstitute.com/
 - https://github.com/trending?since=monthly
 - https://play.google.com/store/apps/top?hl=en_GB
 - https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies  &  https://www.cbinsights.com/research-unicorn-companies
 - https://www.cbinsights.com/research/
+- https://www.cbinsights.com/research/trends/
 - https://www.producthunt.com/
 - https://news.ycombinator.com/
 
