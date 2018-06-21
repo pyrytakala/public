@@ -7,7 +7,6 @@ dialogues
 - http://opusresearch.net/wordpress/
 
 AI
-- http://www.thetalkingmachines.com/
 - https://www.getrevue.co/profile/wildml
 - https://deepmind.com/blog/
 - http://aiweekly.co/
