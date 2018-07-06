@@ -13,6 +13,7 @@ AI
 - https://plus.google.com/communities/112866381580457264725
 - https://www.getrevue.co/profile/CityAI
 - http://www.gitxiv.com/
+- reddit/ml
 
 generic tech
 - https://www.exponentialview.co/newsletter/
