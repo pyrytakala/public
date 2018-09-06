@@ -50,8 +50,9 @@ generic reports
 - http://corporate.exxonmobil.com/en/energy/energy-outlook/download-the-report/download-the-outlook-for-energy-reports
 
 generic world
-- Economist
-- Newsweek
+- https://www.economist.com/printedition/covers
+- https://www.newsweek.com/archive
+- https://www.scientificamerican.com/store/archive/
 
 
 ## news events
