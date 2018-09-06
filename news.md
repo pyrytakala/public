@@ -54,6 +54,8 @@ generic world
 - https://www.newsweek.com/archive
 - https://www.scientificamerican.com/store/archive/
 - https://www.wired.co.uk/magazine
+- https://www.forbesmagazine.com/back-issues
+- https://store.fastcompany.com/back-issues
 
 ## news events
 
