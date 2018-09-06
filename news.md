@@ -53,7 +53,7 @@ generic world
 - https://www.economist.com/printedition/covers
 - https://www.newsweek.com/archive
 - https://www.scientificamerican.com/store/archive/
-
+- https://www.wired.co.uk/magazine
 
 ## news events
 
