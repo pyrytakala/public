@@ -54,9 +54,8 @@
 - Geffrye Museum
 - Saatchi Gallery
 - Kenwood House
-- Harrods
 - Holland Park
-- Emirates Cable Car
+- http://godsownjunkyard.co.uk/
 
 - The Charles Dickens Museum
 - St Paul's
@@ -67,11 +66,13 @@
 - imperial war museum
 - science museum
 - bletchley park
+- Emirates Cable Car
 
 # visited & ok
 - tate modern
 - british museum
 - v&a museum
+- Harrods
 
 
 
